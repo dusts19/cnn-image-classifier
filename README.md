@@ -92,6 +92,9 @@ The notebook tracks and outputs the following:
  - Final test set accuracy
  - Visualizations for sample predictions with true labels and confidence
 
+## Final Result
+Achieved **70.3% validation accuracy** (7-fold cross-validation) and **69.3% test accuracy** on the CINIC-10 dataset using a custom deep CNN with residual connections and early stopping.
+
 <img width="821" alt="image" src="https://github.com/user-attachments/assets/c21c9a9e-a0e2-46b4-b757-f25354fc0380" />
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/a0dba5b2-c4c0-4458-b3ac-e836983332b9" />
 
